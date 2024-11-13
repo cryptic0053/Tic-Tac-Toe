@@ -1,7 +1,6 @@
 # Tic-Tac-Toe Game in Swift
 This is a simple Tic-Tac-Toe game implemented in Swift. The game allows two players to play on a 3x3 grid, with each player taking turns to place their mark (either "X" or "O") on the grid. The first player to align three marks vertically, horizontally, or diagonally wins the game.
-<img src="https://github.com/user-attachments/assets/711b9d1e-7a7e-4638-91b9-82cfca09817f" width="300" height="auto" />
-<img src="https://github.com/user-attachments/assets/eb6b6aa0-bf76-4624-b072-8fc465a8d700" width="300" height="auto" />
+<img src="https://github.com/user-attachments/assets/711b9d1e-7a7e-4638-91b9-82cfca09817f" width="200" height="auto" />
 <img src="https://github.com/user-attachments/assets/c49add95-5c07-48d8-ad5b-4659e9c14390" width="300" height="auto" />
 <img src="https://github.com/user-attachments/assets/7f2ac300-037c-441f-b27a-e45bdd2cd146" width="300" height="auto" />
 <img src="https://github.com/user-attachments/assets/043383ff-1680-4ec1-9968-c771fa220c98" width="300" height="auto" />
