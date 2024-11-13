@@ -4,11 +4,8 @@ This is a simple Tic-Tac-Toe game implemented in Swift. The game allows two play
 Features
 Two-player mode: Player 1 uses "X" and Player 2 uses "O".
 3x3 grid for gameplay.
-Check for win conditions (horizontal, vertical, diagonal).![WhatsApp Image 2024-11-14 at 01 05 48_f41dee15](https://github.com/user-attachments/assets/20b4b71a-0c9d-4822-a975-004ceae920eb)
-(https://github.com/user-attachments/assets/3205e932-2a27-4311-bcdf-6fe14ac7f295)
-
+Check for win conditions (horizontal, vertical, diagonal).![WhatsApp Image 2024-11-14 at 01 05 48_f41dee15]
 Game reset feature after a win or draw.![IMG-20241114-WA0004]
-
 Simple user interface with buttons for each cell on the grid.
 Prerequisites
 Xcode 12 or later.
