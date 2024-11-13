@@ -13,7 +13,7 @@ Swift 5 or later.
 Installation
 Clone this repository to your local machine:
 
-git clone https://github.com/yourusername/tic-tac-toe-swift.git
+git clone https://github.com/cryptic0053/Tic-Tac-Toe-swift.git
 Open the project in Xcode:
 
 open TicTacToe.xcodeproj
